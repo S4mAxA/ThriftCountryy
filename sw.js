@@ -5,15 +5,15 @@ const DYNAMIC_CACHE = 'thrift-country-dynamic-v1.0.0';
 
 // Assets à mettre en cache immédiatement
 const STATIC_ASSETS = [
-  '/',
-  '/index.html',
-  '/styles/main.css',
-  '/scripts/main.js',
-  '/scripts/three-planet.js',
-  '/scripts/animations.js',
-  '/data/products.json',
-  '/manifest.json',
-  '/assets/logo-jupiter-bw.png',
+          './',
+        './index.html',
+        './styles/main.css',
+        './scripts/main.js',
+        './scripts/three-planet.js',
+        './scripts/animations.js',
+        './data/products.json',
+        './manifest.json',
+        './assets/logo-jupiter-bw.png',
   'https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js',
   'https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/gsap.min.js',
   'https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/ScrollTrigger.min.js'
@@ -21,10 +21,10 @@ const STATIC_ASSETS = [
 
 // Images et assets dynamiques
 const DYNAMIC_ASSETS = [
-  '/assets/products/',
-  '/assets/collections/',
-  '/assets/lookbook/',
-  '/assets/icons/'
+          './assets/products/',
+        './assets/collections/',
+        './assets/lookbook/',
+        './assets/icons/'
 ];
 
 // ===== INSTALLATION =====
@@ -186,8 +186,8 @@ self.addEventListener('push', (event) => {
   
   const options = {
     body: event.data ? event.data.text() : 'Nouveau drop disponible !',
-    icon: '/assets/icons/icon-192x192.png',
-    badge: '/assets/icons/badge-72x72.png',
+                icon: './assets/icons/icon-192x192.png',
+            badge: './assets/icons/badge-72x72.png',
     vibrate: [100, 50, 100],
     data: {
       dateOfArrival: Date.now(),
@@ -197,12 +197,12 @@ self.addEventListener('push', (event) => {
       {
         action: 'explore',
         title: 'Voir le drop',
-        icon: '/assets/icons/action-explore.png'
+                    icon: './assets/icons/action-explore.png'
       },
       {
         action: 'close',
         title: 'Fermer',
-        icon: '/assets/icons/action-close.png'
+                    icon: './assets/icons/action-close.png'
       }
     ]
   };

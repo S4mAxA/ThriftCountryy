@@ -26,7 +26,7 @@ class ThriftCountryApp {
     
     async loadProducts() {
         try {
-            const response = await fetch('/data/products.json');
+            const response = await fetch('./data/products.json');
             const data = await response.json();
             this.products = data.products;
             this.renderProducts();
@@ -51,7 +51,7 @@ class ThriftCountryApp {
                 condition: "Excellent",
                 size: "UK 9",
                 description: "Classic Nike Air Max 90 en excellent état.",
-                images: ["/assets/products/nike-air-max-90-1.jpg"],
+                images: ["./assets/products/nike-air-max-90-1.jpg"],
                 tags: ["sneakers", "retro", "sport", "nike"],
                 isNew: true,
                 inStock: true,

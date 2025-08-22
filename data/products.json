@@ -11,9 +11,9 @@
       "size": "UK 9",
       "description": "Classic Nike Air Max 90 en excellent état. Couleur originale préservée, semelle en bon état.",
       "images": [
-        "/assets/products/nike-air-max-90-1.jpg",
-        "/assets/products/nike-air-max-90-2.jpg",
-        "/assets/products/nike-air-max-90-3.jpg"
+        "./assets/products/nike-air-max-90-1.jpg",
+        "./assets/products/nike-air-max-90-2.jpg",
+        "./assets/products/nike-air-max-90-3.jpg"
       ],
       "tags": ["sneakers", "retro", "sport", "nike"],
       "isNew": true,
@@ -33,8 +33,8 @@
       "size": "M",
       "description": "Veste de sport Adidas vintage en excellent état. Coupe classique, parfait pour le streetwear.",
       "images": [
-        "/assets/products/adidas-track-jacket-1.jpg",
-        "/assets/products/adidas-track-jacket-2.jpg"
+        "./assets/products/adidas-track-jacket-1.jpg",
+        "./assets/products/adidas-track-jacket-2.jpg"
       ],
       "tags": ["jacket", "sport", "adidas", "vintage"],
       "isNew": false,
@@ -54,8 +54,8 @@
       "size": "L",
       "description": "Pull Stone Island authentique avec badge original. Matériau premium, coupe moderne.",
       "images": [
-        "/assets/products/stone-island-sweater-1.jpg",
-        "/assets/products/stone-island-sweater-2.jpg"
+        "./assets/products/stone-island-sweater-1.jpg",
+        "./assets/products/stone-island-sweater-2.jpg"
       ],
       "tags": ["sweater", "luxury", "stone-island", "premium"],
       "isNew": true,
@@ -75,8 +75,8 @@
       "size": "M",
       "description": "T-shirt Supreme Box Logo authentique. Légères traces d'usure mais en bon état général.",
       "images": [
-        "/assets/products/supreme-box-logo-1.jpg",
-        "/assets/products/supreme-box-logo-2.jpg"
+        "./assets/products/supreme-box-logo-1.jpg",
+        "./assets/products/supreme-box-logo-2.jpg"
       ],
       "tags": ["t-shirt", "supreme", "streetwear", "box-logo"],
       "isNew": false,
@@ -96,8 +96,8 @@
       "size": "L",
       "description": "Veste Carhartt Detroit en excellent état. Matériau durable, parfait pour l'hiver.",
       "images": [
-        "/assets/products/carhartt-jacket-1.jpg",
-        "/assets/products/carhartt-jacket-2.jpg"
+        "./assets/products/carhartt-jacket-1.jpg",
+        "./assets/products/carhartt-jacket-2.jpg"
       ],
       "tags": ["jacket", "workwear", "carhartt", "durable"],
       "isNew": false,
@@ -117,8 +117,8 @@
       "size": "L",
       "description": "T-shirt Palace avec logo Tri-Ferg. État neuf, jamais porté.",
       "images": [
-        "/assets/products/palace-tee-1.jpg",
-        "/assets/products/palace-tee-2.jpg"
+        "./assets/products/palace-tee-1.jpg",
+        "./assets/products/palace-tee-2.jpg"
       ],
       "tags": ["t-shirt", "palace", "streetwear", "tri-ferg"],
       "isNew": true,
@@ -138,8 +138,8 @@
       "size": "UK 8",
       "description": "Nike Dunk Low en excellent état. Semelle propre, cuir en bon état.",
       "images": [
-        "/assets/products/nike-dunk-low-1.jpg",
-        "/assets/products/nike-dunk-low-2.jpg"
+        "./assets/products/nike-dunk-low-1.jpg",
+        "./assets/products/nike-dunk-low-2.jpg"
       ],
       "tags": ["sneakers", "nike", "dunk", "low"],
       "isNew": false,
@@ -159,8 +159,8 @@
       "size": "M",
       "description": "Veste Acronym J1A-GT authentique. Technologie Gore-Tex, design futuriste.",
       "images": [
-        "/assets/products/acronym-jacket-1.jpg",
-        "/assets/products/acronym-jacket-2.jpg"
+        "./assets/products/acronym-jacket-1.jpg",
+        "./assets/products/acronym-jacket-2.jpg"
       ],
       "tags": ["jacket", "techwear", "acronym", "gore-tex"],
       "isNew": true,
@@ -180,8 +180,8 @@
       "size": "L",
       "description": "Hoodie Stüssy vintage en bon état. Coupe oversized, parfait pour le streetwear.",
       "images": [
-        "/assets/products/stussy-hoodie-1.jpg",
-        "/assets/products/stussy-hoodie-2.jpg"
+        "./assets/products/stussy-hoodie-1.jpg",
+        "./assets/products/stussy-hoodie-2.jpg"
       ],
       "tags": ["hoodie", "stussy", "streetwear", "vintage"],
       "isNew": false,
@@ -201,8 +201,8 @@
       "size": "UK 9",
       "description": "Nike Air Force 1 en excellent état. Semelle blanche propre, cuir en bon état.",
       "images": [
-        "/assets/products/nike-air-force-1-1.jpg",
-        "/assets/products/nike-air-force-1-2.jpg"
+        "./assets/products/nike-air-force-1-1.jpg",
+        "./assets/products/nike-air-force-1-2.jpg"
       ],
       "tags": ["sneakers", "nike", "air-force-1", "classic"],
       "isNew": false,
@@ -222,8 +222,8 @@
       "size": "L",
       "description": "Hoodie BAPE Shark authentique avec zip facial. État neuf, jamais porté.",
       "images": [
-        "/assets/products/bape-hoodie-1.jpg",
-        "/assets/products/bape-hoodie-2.jpg"
+        "./assets/products/bape-hoodie-1.jpg",
+        "./assets/products/bape-hoodie-2.jpg"
       ],
       "tags": ["hoodie", "bape", "shark", "streetwear"],
       "isNew": true,
@@ -243,8 +243,8 @@
       "size": "M",
       "description": "Joggers Nike Tech Fleece en excellent état. Matériau technique, coupe moderne.",
       "images": [
-        "/assets/products/nike-tech-fleece-1.jpg",
-        "/assets/products/nike-tech-fleece-2.jpg"
+        "./assets/products/nike-tech-fleece-1.jpg",
+        "./assets/products/nike-tech-fleece-2.jpg"
       ],
       "tags": ["joggers", "nike", "tech-fleece", "athletic"],
       "isNew": false,
@@ -259,25 +259,25 @@
       "id": "monochrome",
       "name": "Monochrome",
       "description": "Pièces en noir et blanc pour un style minimaliste et élégant",
-      "image": "/assets/collections/monochrome.jpg"
+      "image": "./assets/collections/monochrome.jpg"
     },
     {
       "id": "techwear",
       "name": "Techwear",
       "description": "Vêtements techniques et futuristes pour un style avant-gardiste",
-      "image": "/assets/collections/techwear.jpg"
+      "image": "./assets/collections/techwear.jpg"
     },
     {
       "id": "90s-sports",
       "name": "90s Sports",
       "description": "Pièces vintage des années 90 pour un style rétro authentique",
-      "image": "/assets/collections/90s-sports.jpg"
+      "image": "./assets/collections/90s-sports.jpg"
     },
     {
       "id": "uk-street",
       "name": "UK Street",
       "description": "Streetwear britannique authentique et tendance",
-      "image": "/assets/collections/uk-street.jpg"
+      "image": "./assets/collections/uk-street.jpg"
     }
   ],
   "lookbook": [
@@ -285,28 +285,28 @@
       "id": "look-1",
       "title": "Urban Tech",
       "description": "Style techwear urbain avec des pièces Acronym et Nike",
-      "image": "/assets/lookbook/look-1.jpg",
+      "image": "./assets/lookbook/look-1.jpg",
       "products": ["acronym-jacket", "nike-tech-fleece"]
     },
     {
       "id": "look-2",
       "title": "90s Revival",
       "description": "Retour aux années 90 avec Nike Air Max et Adidas",
-      "image": "/assets/lookbook/look-2.jpg",
+      "image": "./assets/lookbook/look-2.jpg",
       "products": ["nike-air-max-90", "adidas-track-jacket"]
     },
     {
       "id": "look-3",
       "title": "Street Classic",
       "description": "Classiques du streetwear avec Supreme et Palace",
-      "image": "/assets/lookbook/look-3.jpg",
+      "image": "./assets/lookbook/look-3.jpg",
       "products": ["supreme-box-logo", "palace-tee"]
     },
     {
       "id": "look-4",
       "title": "Monochrome Minimal",
       "description": "Style minimaliste en noir et blanc",
-      "image": "/assets/lookbook/look-4.jpg",
+      "image": "./assets/lookbook/look-4.jpg",
       "products": ["carhartt-jacket", "nike-dunk-low"]
     }
   ]
