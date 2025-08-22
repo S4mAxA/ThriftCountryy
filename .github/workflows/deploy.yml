@@ -6,6 +6,12 @@ on:
   pull_request:
     branches: [ main ]
 
+# Permissions nécessaires pour le déploiement
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
 jobs:
   deploy:
     runs-on: ubuntu-latest
